@@ -1,0 +1,3645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.43225,43.095585,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.432293,43.095625,150.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.396667,43.059803,152.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.674377,43.085867,152.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437787,43.138652,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.435825,43.138575,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437637,43.138678,126.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.43809,43.138373,126.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437687,43.138367,171.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-82.967155,40.149008,288.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-84.159705,35.881563,288.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-83.626118,35.982257,288.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-81.097967,36.95845,730.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-80.623882,37.086667,730.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.84297,39.58601,730.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-76.565232,40.131563,130.9</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.343858,40.126085,130.9</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437727,43.138397,130.9</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.439558,43.139492,130.9</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437695,43.138597,130.9</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.63135,43.092618,169.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-76.893678,40.970082,169.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.96558,37.132868,169.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.375262,38.185025,5.9</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.062697,41.394118,5.9</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437652,43.138253,114.5</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437557,43.138598,114.5</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.465687,43.102268,138.1</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437678,43.13861,138.1</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.556098,43.141162,138.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.553607,43.113985,150.1</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.43295,43.096943,147.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.505553,43.135392,117.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437667,43.13857,117.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.43338,43.140932,117.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.432232,43.095593,152.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.459125,43.107045,130.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437687,43.13856,145.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.371633,43.064005,153.0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.432973,43.096752,140.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437732,43.138388,140.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437742,43.138323,140.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437743,43.138373,140.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437808,43.138472,153.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437817,43.138313,162.1</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437718,43.138388,163.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437727,43.138372,152.0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437697,43.138622,167.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.432278,43.095682,153.1</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.436922,43.138587,153.1</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437727,43.138553,153.1</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.432232,43.095485,148.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.447005,43.12946,148.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.439757,43.139603,148.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.45626,43.104638,148.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.462928,43.101667,148.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.885877,42.995277,215.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.439512,43.098805,146.9</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.44192,43.102942,146.9</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.450797,43.212383,131.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437818,43.138452,160.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.431432,43.096628,160.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Yellow PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.43254,43.097863,160.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.43301,43.096828,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437643,43.138593,184.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.439612,43.139545,184.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.679722,43.085775,184.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.538088,43.156597,127.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.44196,43.098965,127.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.439622,43.13962,127.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.679845,43.085887,176.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.439645,43.139743,176.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.620243,43.154695,140.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-80.56866,41.913157,140.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-80.56871,41.913647,225.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-82.261435,40.855942,225.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-82.971808,40.148137,225.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-82.976652,40.140753,225.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-84.636065,38.956495,261.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-84.520967,38.112337,261.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-84.196077,37.21384,261.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-84.060085,35.913515,300.0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-84.157303,35.882495,271.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-84.06005,35.913532,271.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-84.171025,35.895538,303.0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-84.060237,35.914775,247.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-83.942395,35.962625,247.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-82.636008,36.404295,247.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-82.36298,36.538685,247.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-82.152412,36.625947,247.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-81.698182,36.785785,247.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-81.098138,36.958467,247.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-79.284032,37.884443,247.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-79.28441,37.884845,247.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-78.930895,38.321722,247.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-78.660167,38.716048,247.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-78.320962,39.00351,247.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-78.140997,39.215573,214.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-76.968302,40.234023,214.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-76.727047,40.225855,191.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-76.563302,40.131262,121.9</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-76.298803,40.06789,103.9</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-76.165858,40.01711,119.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.995483,39.989513,226.1</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.649062,40.012973,226.1</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.349343,40.115792,26.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.341042,40.124345,26.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.368205,40.039572,26.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.368497,40.040062,26.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.351945,40.125418,48.1</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.368685,40.212497,48.1</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.409623,40.385913,144.0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.57709,40.614087,134.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.657268,40.87684,134.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.777212,41.130912,134.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.719035,41.363468,134.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.646832,41.603215,134.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.680132,41.830482,134.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.799005,42.054865,134.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.91809,42.249692,134.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-76.146168,42.715365,134.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-76.13974,42.946983,134.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-76.140067,43.026663,133.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.438455,43.009677,133.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.439693,43.139725,133.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.565988,43.145972,133.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.57822,43.13771,133.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.620555,43.100773,177.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.432883,43.096687,148.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437815,43.138503,156.5</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.432982,43.096742,156.5</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437637,43.138567,156.5</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.432982,43.096833,146.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.505965,43.187805,145.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.629547,43.07975,145.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.656393,42.529012,145.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.36307,42.377145,145.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.15476,42.186862,310.0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.038905,41.230038,310.0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-76.85536,40.818165,310.0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.012393,40.421933,310.0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-76.869422,40.255783,310.0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-76.723723,39.979223,121.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-76.64771,39.345115,121.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.655397,36.004355,121.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.811607,36.096217,-4.1</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.837788,36.130193,-2.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.959583,36.346193,-12.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-76.138315,36.493115,-13.5</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-76.196453,36.556947,0.0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-76.185535,36.716595,4.1</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-76.186628,36.717153,1.1</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-76.193585,36.806925,0.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-76.130992,36.911002,3.0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.720503,37.692922,3.0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.546502,37.893955,3.0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.355168,37.908253,-4.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.343777,37.888695,-4.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.360088,37.90398,-4.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.54008,37.946113,-4.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.211482,38.324218,-4.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.238427,38.514695,16.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.396505,38.684387,14.1</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.439513,38.901745,5.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.49844,39.138722,11.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.666782,39.391862,18.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.589355,39.576472,18.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.653148,39.633228,37.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.608147,39.710562,37.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.548672,39.805555,37.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.590208,39.939287,37.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.352613,40.1249,37.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.343703,40.123785,39.5</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.351185,40.12594,64.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.307425,40.095405,35.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.409593,40.385832,35.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.558665,40.574417,35.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.628738,40.723425,35.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.628538,40.978778,35.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-76.871655,41.055658,35.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.019275,41.231795,35.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.020925,41.233192,35.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.071897,41.775973,357.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.120512,41.954455,357.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.224438,42.276085,357.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.510193,42.492305,357.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.812287,42.666678,357.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.694928,42.903357,357.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.591153,43.108955,357.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437687,43.138548,357.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.43962,43.139615,357.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.46919,43.059505,137.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.469027,43.063493,142.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.442557,43.10015,142.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.43294,43.096828,142.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.520372,43.137295,142.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.43213,43.095338,169.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.439552,43.139445,169.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.554087,43.142845,154.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.519233,43.136932,131.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.439605,43.139505,160.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.542715,43.104872,160.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437735,43.138567,160.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.492752,43.131188,160.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.439608,43.139545,160.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.494677,43.132505,160.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.467535,43.08219,134.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.434845,43.13898,134.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.39217,43.064743,158.1</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.436118,43.138525,127.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.366603,43.064747,127.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.432102,43.068945,171.1</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437642,43.138553,148.1</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.398007,42.994108,174.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.295947,42.871282,174.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.250888,42.864003,212.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.362092,42.91233,212.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437743,43.138373,212.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.439585,43.13967,212.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.67909,43.086977,163.5</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.604628,43.086258,163.5</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.44192,43.099183,160.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.441902,43.102745,141.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.439598,43.139635,162.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437868,43.138305,184.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.439577,43.098715,184.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437767,43.138593,184.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.439467,43.140868,184.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.553607,43.114122,184.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.555858,43.141785,181.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.439633,43.139477,181.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.553012,43.127262,181.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.624327,43.100278,181.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.656075,43.086838,181.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.655768,43.087922,181.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.593363,43.143585,149.0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.579837,43.148665,149.0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.43769,43.138622,149.0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.431885,43.095805,149.0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.441857,43.12781,150.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.439655,43.139753,156.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.649793,43.123812,156.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.869953,42.99268,156.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.70644,43.070962,156.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.553377,43.11648,156.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.448737,43.090273,152.9</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.439603,43.13958,160.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.439633,43.139603,160.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.432678,43.096375,156.1</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.439598,43.139495,153.1</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.661045,43.131457,160.0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.616687,43.116395,160.0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.576352,43.12606,160.0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.520718,43.13737,160.0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437635,43.138507,160.0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437767,43.138423,185.0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.431457,43.095567,140.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.370835,43.064412,162.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.439602,43.139545,162.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Green PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ffffff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437622,43.138477,162.6</coordinates>
+	</Point>
+</Placemark>
+  </Document>
+</kml>
